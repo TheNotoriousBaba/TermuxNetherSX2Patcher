@@ -15,7 +15,7 @@ Try again run ``./autopatchnethersx2.sh``
 ## Updating patched NetherSX2:
 **Simply, run these commands.**
 ```bash
-curl -LO "https://raw.githubusercontent.com/TheKingFireS/TermuxNetherSX2Patcher/main/autoupdatenethersx2.sh"
+curl -LO "https://github.com/TheNotoriousBaba/TermuxNetherSX2Patcher/blob/main/autoupdatenethersx2.sh"
 chmod +x autoupdatenethersx2.sh
 ./autoupdatenethersx2.sh
 ```
