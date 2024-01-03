@@ -3,7 +3,7 @@
 ## Patching NetherSX2:
 **Simply, run these commands.**
 ```bash
-curl -LO "https://raw.githubusercontent.com/TheNotoriousBaba/TermuxNetherSX2Patcher/blob/main/autopatchnethersx2.sh"
+curl -LO "https://raw.githubusercontent.com/TheNotoriousBaba/TermuxNetherSX2Patcher/main/autopatchnethersx2.sh"
 chmod +x autopatchnethersx2.sh
 ./autopatchnethersx2.sh
 ```
@@ -15,7 +15,7 @@ Try again run ``./autopatchnethersx2.sh``
 ## Updating patched NetherSX2:
 **Simply, run these commands.**
 ```bash
-curl -LO "https://raw.githubusercontent.com/TheNotoriousBaba/TermuxNetherSX2Patcher/blob/main/autoupdatenethersx2.sh"
+curl -LO "https://raw.githubusercontent.com/TheNotoriousBaba/TermuxNetherSX2Patcher/main/autoupdatenethersx2.sh"
 chmod +x autoupdatenethersx2.sh
 ./autoupdatenethersx2.sh
 ```
