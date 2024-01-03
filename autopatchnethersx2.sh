@@ -1,7 +1,9 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#/data/data/com.termux/files/usr/bin/bash
+#!/data/data/com.termux/files/usr/bin/env bash
 # Installing aapt, wget and cloning repo.
 pkg upgrade -y
 pkg install aapt wget -y # it will uninstall some package due to crappy packages maintainer practice.
+#wget "https://github.com/Trixarian/NetherSX2-patch/releases/download/1.6/NetherSX2-patch.zip"
 wget "https://github.com/Trixarian/NetherSX2-patch/releases/download/1.7/NetherSX2-patch.zip"
 unzip NetherSX2-patch.zip
 rm NetherSX2-patch.zip
