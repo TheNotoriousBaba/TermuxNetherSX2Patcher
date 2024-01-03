@@ -1,5 +1,5 @@
-#/data/data/com.termux/files/usr/bin/bash
-#!/data/data/com.termux/files/usr/bin/env bash
+#!/data/data/com.termux/files/usr/bin/bash
+#/data/data/com.termux/files/usr/bin/env bash
 # Installing aapt, wget and cloning repo.
 pkg upgrade -y
 pkg install aapt wget -y # it will uninstall some package due to crappy packages maintainer practice.
