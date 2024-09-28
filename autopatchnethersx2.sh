@@ -4,7 +4,7 @@
 pkg upgrade -y
 pkg install aapt wget -y # it will uninstall some package due to crappy packages maintainer practice.
 #wget "https://github.com/Trixarian/NetherSX2-patch/releases/download/1.6/NetherSX2-patch.zip" -OLD V1.6
-wget "https://github.com/Trixarian/NetherSX2-patch/releases/tag/1.9-dev/NetherSX2-patch.zip"
+wget "https://github.com/Trixarian/NetherSX2-patch/releases/download/1.9-dev/NetherSX2-patch.zip"
 unzip NetherSX2-patch.zip
 rm NetherSX2-patch.zip
 cd NetherSX2-patch || exit
